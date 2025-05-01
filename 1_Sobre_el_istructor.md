@@ -1,0 +1,1 @@
+Solo nos muestra la parte del curso, ademas de como poder obtenerlo y la calidad del curso
