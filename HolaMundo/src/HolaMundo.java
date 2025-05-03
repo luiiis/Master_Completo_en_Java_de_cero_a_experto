@@ -18,5 +18,13 @@ public static void main(String[] args) throws Exception {
 
     //version 10 en java var puede ser de cual quier tipo de dato
     var numero3 = 15;
+//se debe evitar asentos o ñ o carcacteres especiales, nombre de clases variables
+    String nombre;
+    nombre ="Luis";
+
+    if(numero>10){
+        nombre = "juan";
+    }
+    System.out.println("nombre = "+nombre);
 }
 }
